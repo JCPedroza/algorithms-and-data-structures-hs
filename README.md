@@ -5,7 +5,8 @@ Haskell, and to our love for programming and software engineering!
 
 ## Main Toolchain
 
-- Package manager and build system: [stack][50]
+- Package manager and build system
+  - [stack][50]
 
 ---
 
